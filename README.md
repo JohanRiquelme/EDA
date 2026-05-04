@@ -1,33 +1,16 @@
 # EDA
-# 📊 Titanic Dataset Analysis
+# 📊 Explanatory Data Analysis¶
+This notebook covers the EDA process of the research. It includes basic statistic analysis, data manipulation and cleaning, as well as inferential statistics.
 
-## Objective
-Analyze passenger data from the Titanic dataset to identify key factors that influenced survival rates.
+Datasets used:
 
-## Tools
-- Python (Pandas, NumPy)
-- Jupyter Notebook
-
-## Data Preparation
-- Cleaned missing values
-- Converted data types
-- Removed inconsistencies
-
-## Analysis
-- Survival rate by gender
-- Survival rate by passenger class
-- Age distribution of passengers
-
-## Key Insights
-- Female passengers had a significantly higher survival rate than males
-- First-class passengers were more likely to survive than lower classes
-- Younger passengers had slightly higher survival chances
-
-## Conclusion
-The analysis shows that gender and socio-economic status (class) played a major role in survival outcomes.
+Ireland News Dataset
+UK News Dataset
+Both datasets were retrieved from https://worldnewsapi.com/ under a free nonexclusive, non-transferrable license to use the World News API on a month-by-month basic.
 
 ## Files
-- `Descriptive Statistics_titanic_dataset.ipynb`
+- The Ireland News Dataset
+This section covers the basic statistic analysis and data cleaning of the Ireland News Dataset.
 
 - *************************************************************************************************************
 # Featured Projects
