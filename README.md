@@ -4,9 +4,6 @@ This notebook covers the EDA process of the research. It includes basic statisti
 # Read me
 https://github.com/JohanRiquelme/johanna || Read me
 
-# ePortfolio Public
-https://github.com/JohanRiquelme/ePortfolio || ePortfolio Public | job simulations. (it is in growing up).
-
 #  Thesis Data Security
 https://github.com/JohanRiquelme/thesis_Data_security || Balancing Anonymity and Accuracy An Ethical Assessment of Privacy-Preserving Methods
 
