@@ -34,8 +34,7 @@ The analysis shows that gender and socio-economic status (class) played a major 
 (Currently developing a structured data portfolio)
 
 # Read me
-https://github.com/JohanRiquelme/johanna || Read me
-
+https://github.com/JohanRiquelme/johanna || Read me about my, Johanna
 #  Thesis Data Security
 https://github.com/JohanRiquelme/thesis_Data_security || Balancing Anonymity and Accuracy An Ethical Assessment of Privacy-Preserving Methods
 
